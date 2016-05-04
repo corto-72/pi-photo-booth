@@ -1,0 +1,1 @@
+ Moved to github https://github.com/jcroucher/pi-photo-booth/
